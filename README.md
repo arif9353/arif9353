@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
 <h3 align="center">Juggling around programming languages from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
 - 🌱 I’m currently learning **react, nodejs, express**
 
 - 💬 Ask me about **python, pandas, opencv**
