@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react, nodejs, express**
 
-- 💬 Ask me about **python, pandas, opencv**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **ma782318@gmail.com**
 
