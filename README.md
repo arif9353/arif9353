@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif9353&show_icons=true&locale=en" alt="arif9353" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arif9353&" alt="arif9353" /></p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/arif9353?hide=ranking&theme=dark&border=2&radius=20&font=Poppins)](https://www.leetcode.com/arif9353/) 
