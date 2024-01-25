@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I play amazing football**
 
+[![](https://visitcount.itsvg.in/api?id=arif9353&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arif9353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arif9353" height="30" width="40" /></a>
