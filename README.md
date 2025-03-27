@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **ma782318@gmail.com**
 
-- ⚡ Fun fact **I play amazing football**
-
 [![](https://visitcount.itsvg.in/api?id=arif9353&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
